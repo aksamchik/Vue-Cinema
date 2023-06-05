@@ -32,3 +32,18 @@ body {
     margin: 0 auto;
     width: 100%;
 }
+
+.btn{
+    outline: none;
+    border: none;
+    width: 166px;
+    height: 45px;
+    color: var(--black);
+    font-family: var(--RM);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: 0em;
+    background: var(--lightor);
+    transition: 0.3s;
+}
