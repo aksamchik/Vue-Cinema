@@ -33,7 +33,7 @@ body {
     width: 100%;
 }
 
-.btn{
+.btn {
     outline: none;
     border: none;
     width: 166px;
@@ -46,4 +46,17 @@ body {
     letter-spacing: 0em;
     background: var(--lightor);
     transition: 0.3s;
+}
+
+.title {
+    font-family: var(--CR);
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+    color: var(--lightor);
+    border-bottom: var(--lightor) solid 2px;
+    width: max-content;
+    padding-bottom: 10px;
+    margin-bottom: 54px;
+    text-transform: capitalize;
 }
